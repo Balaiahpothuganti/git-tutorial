@@ -1,3 +1,3 @@
 console.log('config');
 
-console.log('git');
+console.log('git2');
